@@ -7,6 +7,9 @@
         "radio": "*"
     },
     "files": [
+        "main.blocks",
+        "main.py",
+        "main.ts",
         "makerspace.ts",
         "README.md"
     ],
